@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: John Wilfred
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,11 +11,8 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.2"
+description: My own reflection of the self on others and on the self.
+page_title: "🪴 JW Musings"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
