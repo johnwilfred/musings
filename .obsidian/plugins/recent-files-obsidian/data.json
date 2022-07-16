@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "8-minute writing",
+      "path": "content/notes/8-minute writing.md"
+    },
+    {
       "basename": "private-note",
       "path": "content/private/private-note.md"
     },
     {
       "basename": "post",
       "path": "content/templates/post.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Readme",

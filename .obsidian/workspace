@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/private/private-note.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/private/private-note.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 291.5
   },
-  "active": "96cfbcb596795b85",
+  "active": "775f712cc709a72d",
   "lastOpenFiles": [
+    "content/notes/8-minute writing.md",
+    "content/_index.md",
+    "content/private/private-note.md",
     "content/notes/ignore notes.md",
     "content/notes/custom Domain.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/templates/post.md",
-    "content/private/private-note.md",
     "content/notes/updating.md",
     "content/notes/troubleshooting.md",
-    "content/notes/obsidian.md",
-    "content/notes/showcase.md",
-    "content/notes/setup.md"
+    "content/notes/obsidian.md"
   ]
 }
