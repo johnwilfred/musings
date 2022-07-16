@@ -2,7 +2,7 @@
 title: 🌱 Musings
 ---
 
-Welcome! I am John Wilfred
+Welcome! I am [John Wilfred](https://www.linkedin.com/in/johnwilfred/). This is my attempt to share what I have discerned over years on various topics. 
 
 __[Kural 423:](https://en.wikipedia.org/wiki/Kural)__ 
 > The mark of wisdom is to discern the truth from whatever source it is heard.
