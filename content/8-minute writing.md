@@ -1,9 +1,9 @@
 ---
 title: 8-minute writing
 tags:
-- setup
+- self-help
 weight: -1
 aliases:
-- hosting
+- 8-minute
 ---
 # [[8-minute writing]]

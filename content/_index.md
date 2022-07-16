@@ -14,7 +14,7 @@ __[Kural 423:](https://en.wikipedia.org/wiki/Kural)__
 
 You will find here my humble attempt to discern the truth here. Hope it is of some use to you.
 
-[[8-minute writing]] [link](notes/8-minute writing.md)
+[[8-minute writing]]
 
 ---
 
