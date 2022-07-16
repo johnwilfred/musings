@@ -1,0 +1,24 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nnts : #notetoself\ngtd : #gtd/tasks\n\ngtt : #gtd/today\ngtn :  #gtd/next\ngtb : #gtd/backlog\ngtw : #gtd/waiting\n\ngttm : #gtd/thismonth\ngttw : #gtd/thisweek\ngtnw : #gtd/nextweek\n\neval : <% eval( $pst$) %>",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "nts : #notetoself",
+    "gtd : #gtd/tasks",
+    "gtt : #gtd/today",
+    "gtn :  #gtd/next",
+    "gtb : #gtd/backlog",
+    "gtw : #gtd/waiting",
+    "gttm : #gtd/thismonth",
+    "gttw : #gtd/thisweek",
+    "gtnw : #gtd/nextweek",
+    "eval : <% eval( $pst$) %>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

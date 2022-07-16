@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "4b93bb6e4dd2cb42",
+    "type": "split",
+    "children": [
+      {
+        "id": "d751933d49b3cb6a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "559b6c47ae95e4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a99fce195d0e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775f712cc709a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3a78d93b45796f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#gtd/thisweek",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "666fc0106702e949",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220
+  },
+  "right": {
+    "id": "49c0ddc56735d82f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e6c309b63444d0a",
+        "type": "tabs",
+        "dimension": 69.558599695586,
+        "children": [
+          {
+            "id": "7b9504954631fcbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90dc1c7ff6c2f733",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5221076d4f34563c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "946c78376e208332",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1aa1561936fa4c39",
+        "type": "tabs",
+        "dimension": 15.220700152207,
+        "children": [
+          {
+            "id": "4301a341eaeae260",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f880e0f92a60386",
+        "type": "tabs",
+        "dimension": 15.220700152207,
+        "children": [
+          {
+            "id": "2dc3adef299945f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "active": "666fc0106702e949",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-07-15 18.35.39.excalidraw.md",
+    "ATTACHMENTS/Pasted image 20220711102306.png",
+    "ATTACHMENTS/Pasted image 20220706101925.png",
+    "ATTACHMENTS/Pasted image 20220706101835.png",
+    "ATTACHMENTS/Pasted image 20220706100420.png",
+    "ATTACHMENTS/Pasted image 20220702160342.png",
+    "ATTACHMENTS/Pasted image 20220701193726.png",
+    "ATTACHMENTS/Pasted Image 20220623114429_891.png",
+    "ATTACHMENTS/Pasted Image 20220623114314_160.png",
+    "ATTACHMENTS/Pasted Image 20220623112929_752.png"
+  ]
+}

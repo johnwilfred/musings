@@ -1,0 +1,68 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "JOURNAL/2022-06-21.md",
+      "date": "Mon Jun 20 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-21.md",
+      "date": "Tue Jun 21 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-22.md",
+      "date": "Wed Jun 22 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-23.md",
+      "date": "Thu Jun 23 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-24.md",
+      "date": "Fri Jun 24 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-27.md",
+      "date": "Mon Jun 27 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-28.md",
+      "date": "Tue Jun 28 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-06-29.md",
+      "date": "Wed Jun 29 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-02.md",
+      "date": "Sat Jul 02 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-04.md",
+      "date": "Mon Jul 04 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-05.md",
+      "date": "Tue Jul 05 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-11.md",
+      "date": "Mon Jul 11 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-12.md",
+      "date": "Tue Jul 12 2022"
+    },
+    {
+      "notePath": "JOURNAL/2022-07-14.md",
+      "date": "Thu Jul 14 2022"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}
