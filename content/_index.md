@@ -2,9 +2,7 @@
 title: 🌱 Musings
 ---
 
-> Not sure when it started.<BR>
-> This constant thrush to emerge <BR>
-> It felt theto push through the seed to emerge as the seedling 
+> 
 
 ---
 
