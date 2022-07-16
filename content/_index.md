@@ -2,6 +2,12 @@
 title: 🌱 Musings
 ---
 
+> Not sure when it started.<BR>
+> This constant thrush to emerge <BR>
+> It felt theto push through the seed to emerge as the seedling 
+
+---
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
