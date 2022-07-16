@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "private-note",
+      "path": "content/private/private-note.md"
+    },
+    {
+      "basename": "post",
+      "path": "content/templates/post.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -167,38 +175,6 @@
     {
       "basename": "User story template",
       "path": "TEMPLATES/User story template.md"
-    },
-    {
-      "basename": "TA - Discovery",
-      "path": "TEMPLATES/TA - Discovery.md"
-    },
-    {
-      "basename": "ME",
-      "path": "ME.md"
-    },
-    {
-      "basename": "Mind Map Template",
-      "path": "TEMPLATES/Mind Map Template.md"
-    },
-    {
-      "basename": "DSR - Meeting notes - 20220713_0227",
-      "path": "MEETINGS/DSR - Meeting notes - 20220713_0227.md"
-    },
-    {
-      "basename": "MGL - Meeting notes - 20220706_0402",
-      "path": "MEETINGS/MGL - Meeting notes - 20220706_0402.md"
-    },
-    {
-      "basename": "DSR",
-      "path": "_CLIENTS/DSR.md"
-    },
-    {
-      "basename": "NCS",
-      "path": "_CLIENTS/NCS.md"
-    },
-    {
-      "basename": "MGL",
-      "path": "_CLIENTS/MGL.md"
     }
   ],
   "omittedPaths": [],
