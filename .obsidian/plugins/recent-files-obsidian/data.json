@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Readme",
       "path": "Readme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MGL",
       "path": "_CLIENTS/MGL.md"
-    },
-    {
-      "basename": "System Design",
-      "path": "System Design.md"
     }
   ],
   "omittedPaths": [],
